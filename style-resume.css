@@ -1,0 +1,95 @@
+.container{
+    padding: 65px;
+    margin: auto;
+    background-size: cover;
+    background-repeat: repeat-x;
+    width: 100%;
+    height: 200px;
+    background-repeat: repeat;
+    text-align: center;
+}
+
+.name{
+    font-size: 35px;
+}
+
+
+
+.carousel-img-h{
+    height: 400px;;
+}
+
+.skills-box{
+    color: white;
+    background-color: tomato;
+    height: 400px;
+}
+
+.my-icons{
+    display: inline-block;
+   margin: 0 10px 0 0;
+    color: rgb(141, 71, 255);
+    margin-top: 45px;
+    font-size: 65px;
+}
+
+.center-icon{
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    color: tomato;
+}
+.footer{
+    margin:auto;
+    text-align: center;
+}
+
+#experience{
+    background-color: rgb(141, 71, 255);
+    color: white;
+    height: auto;
+    margin-top: 150px;
+    margin-bottom: 75px;
+}
+
+
+
+#introduction{
+    padding-top: 150px;
+    padding-bottom: 200px;
+}
+
+.header{
+    position: fixed;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 60px;
+    padding-bottom: 25px;
+    background-color: tomato;
+    color: whitesmoke;
+    line-height: 50px;
+    font-size: 25px;
+}
+
+
+.container-40{
+    width: 40%;
+    float: left;
+}
+.container-60{
+    width: 60%;
+    float: left;
+}
+
+.container-50{
+    width: 50%;
+    float: left;
+}
+
+img{
+    border-radius: 50%;
+}

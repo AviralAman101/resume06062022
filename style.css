@@ -1,0 +1,112 @@
+.a,.b{
+  width: 100%;
+  height: 680px;
+}
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.space{
+  height: 30px;
+  width: 100%;
+
+}
+.color-1{
+  background-color: #BB6464;
+}
+tbody{
+      border-color: none;
+}
+
+.table{
+  border-style: none;
+  border-spacing: 0;
+  border: none;
+  border-collapse: collapse;
+}
+
+.section-1{
+  background-color: #BB6464;
+  padding-top: 55px;
+  border: hidden;
+}
+
+.contact{
+  height: 80px;
+  text-align: center;
+  margin: auto;
+}
+
+.email{
+  display: block;
+
+  margin-top: 30px;
+}
+
+.font-custom{
+  font-family: 'Redressed', cursive;
+}
+
+.details{
+  font-size: 80px;
+  text-align: center;
+  color: white;
+  border-style: none;
+  font-family: 'Redressed', cursive;
+}
+
+.container img{
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+  background-repeat: repeat-x;
+  width: 100%;
+  height: 75px;
+  background-repeat: repeat;
+}
+.section-2{
+  background-color: #F1E0AC;
+}
+.list-group-item {
+    background-color: #ECB390;
+}
+
+.container{
+  width: 100%;
+  height:50px;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+p{
+  color: white;
+  font-size: 30px;
+  padding: 100px;
+  font-family: 'Redressed', cursive;
+}
+
+.profilePic{
+  border-radius: 50%;
+  padding: 80px;
+}
+.resumeHead{
+  margin: auto;
+  line-height: 60px;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Redressed', cursive;
+}
+td{
+  text-align: center;
+}
+
+/*///// Clock //////*/
+
+#currentTime {
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Redressed', cursive;
+  font-weight: 300;
+  margin: auto;
+}
